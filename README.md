@@ -49,12 +49,3 @@ O sistema deverá manter os seguintes dados referentes a um **cliente**:
 * Este trabalho deve ser desenvolvido pelo mesmo grupo definido no início da disciplina.
 
 * Deverá ser entregue um arquivo .ZIP contendo **todos** os arquivos necessários para execução e exibição correta dos *scripts* (`.html`, `.js`, `.css`, `.php`, imagens etc.). Favor manter, no arquivo .ZIP, a estrutura de diretórios necessária para execução do sistema.
-
-* **Cópias de outros grupos ou da internet serão penalizadas como descrito no programa da disciplina.**
-
-* **Não serão aceitos trabalhos entregues fora do prazo.**
-
-
-### Entrega
-
-**Quinta, 30 Nov 2017, 00:55**
